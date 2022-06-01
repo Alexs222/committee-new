@@ -9,9 +9,10 @@ export default class MainPage extends Component {
   render() {
 
     return (
-      <div className="page main-page">
-        Main page
-      </div>
+      <>
+        <div className="page main-page"></div>
+        <div className="main-page-layer"></div>
+      </>
     );
   }
 }
