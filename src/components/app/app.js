@@ -9,7 +9,7 @@ export default class App extends Component {
   render() {
 
     return (
-      <div className="todo-app">
+      <div className="container">
         <MainPage />
       </div>
     );

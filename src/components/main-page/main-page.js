@@ -1,8 +1,7 @@
 import React, { Component } from "react";
+import Flag from "../flag";
 
 import "./main-page.scss";
-
-import background from './building.jpg'
 
 export default class MainPage extends Component {
 
@@ -12,7 +11,10 @@ export default class MainPage extends Component {
       <>
         <div className="page main-page"></div>
         <div className="main-page-layer"></div>
+        <Flag />
       </>
+      
+      
     );
   }
 }
