@@ -5,11 +5,19 @@ import "./flag.scss"
 const Flag = () => (
   <>
     <div className="flag-line-1">
+<<<<<<< HEAD
       <div className="flag-card flag-card-1">
         <div className='flag-bg flag-bg-1'></div>
         <div className='flag-content'>
           <div className='flag-icon'>
             <svg width="90" height="90" viewBox="0 0 90 90" fill="none" xmlns="http://www.w3.org/2000/svg">
+=======
+      <div className="flag-1">
+        <div className='flag-1-bg'></div>
+        <div className='flag1-content'>
+          <div className='flag1-icon'>
+            <svg viewBox="0 0 90 90" fill="none" xmlns="http://www.w3.org/2000/svg">
+>>>>>>> 8138f4aa7d554d586130fb99e64810dbf28401b6
               <path d="M42.1875 70.3125H16.875C15.3225 70.3125 14.0625 69.0554 14.0625 67.5V34.006C14.0625 32.4507 15.3225 31.1935 16.875 31.1935H42.1875C43.74 31.1935 45 32.4507 45 34.006V67.5C45 69.0554 43.74 70.3125 42.1875 70.3125ZM19.6875 64.6875H39.375V36.8185H19.6875V64.6875Z" fill="#008AD0" />
               <path d="M61.875 25.3125H16.875C15.3225 25.3125 14.0625 24.0553 14.0625 22.5C14.0625 20.9447 15.3225 19.6875 16.875 19.6875H61.875C63.4275 19.6875 64.6875 20.9447 64.6875 22.5C64.6875 24.0553 63.4275 25.3125 61.875 25.3125Z" fill="#005CA9" />
               <path d="M61.875 36.5625H53.4375C51.885 36.5625 50.625 35.3053 50.625 33.75C50.625 32.1947 51.885 30.9375 53.4375 30.9375H61.875C63.4275 30.9375 64.6875 32.1947 64.6875 33.75C64.6875 35.3053 63.4275 36.5625 61.875 36.5625Z" fill="#005CA9" />
